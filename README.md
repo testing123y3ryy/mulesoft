@@ -1,9 +1,9 @@
 # mulesoft
 
-# Creating Database
+## Creating Database
 sqlite3 muldb
 
-# Creating Table 
+## Creating Table 
 CREATE TABLE movies (id INTEGER PRIMARY KEY AUTOINCREMENT , name TEXT NOT NULL, releaseDate date NOT NULL, director TEXT NOT NULL, LeadActor TEXT NOT NULL, LeadActress TEXT NOT NULL);
 
 ![image](https://user-images.githubusercontent.com/91524242/144084542-b591850e-2b33-465e-9f86-b888e450f626.png)
